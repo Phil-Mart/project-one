@@ -16,3 +16,5 @@ We were also able to show the correlation between each stock and the NASDAQ itse
 When comparing the overall trend of each investment pick, we can see (in question #4, 'how do these stocks compare to an index fund?') that the index fund VTI performed resoundly better than either of the two individual stocks. This, of course, shows that while picking individual stocks can be lucrative if you're lucky, it's usually easiest and safest to invest in the aggregate market. 
 
 Lastly, we measured the volatility of both real estate stocks to further inform us of the inherent risks involved with picking individual stocks. For this metric, we calculated the standard deviation of each stock's closing price for every trading day in our datasets. The graphed many swings of change, signifying an inherent risk for picking either of these stocks at any point in time. 
+
+Here is the link to our google slides presentation: https://docs.google.com/presentation/d/15rNr_Ld3Z-x6Hex481TG3wLFMnqRjrASgSxzzzyGqpc/edit?usp=sharing
